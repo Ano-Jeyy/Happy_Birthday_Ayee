@@ -1,4 +1,4 @@
-
+#cake.css
 
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic);
 @import url('https://fonts.googleapis.com/css?family=Titan+One');
@@ -11,7 +11,7 @@ body {
 }
 
 body {
-  background-image: url(Background2.jpg);
+  background: #d54d56;
 }
 
 #cake {
@@ -105,7 +105,7 @@ body {
 }
 
 .text {
-  color: #fff;
+  color: #ffd900;
   font-family: 'Lobster', cursive;
   font-weight: 300;
   font-style:italic;
